@@ -28,7 +28,7 @@
 <!-- [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fakunleGiddyware) -->
 
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iyanuoluwagideon.netlify.app//)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iyanuoluwagideon.netlify.app/)
 
 ### 🛠 Tools and Framework
 
