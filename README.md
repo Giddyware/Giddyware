@@ -23,7 +23,8 @@
 <!-- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard) -->
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idowu-iyanuoluwa-10a49a23a/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
+
+<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv) -->
 
 <!-- [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fakunleGiddyware) -->
 
@@ -66,13 +67,13 @@
  
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giddyware&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Giddyware&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Tolulope Fakunle's github stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Giddyware&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Idowu Iyanuoluwa's github stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Giddyware&theme=dark" alt="Giddyware" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
-> <a href="https://github.com/Giddyware/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Giddyware&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/Giddyware/github-readme-activity-graph"><img alt="Iyanuoluwa Idowu' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Giddyware&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
