@@ -56,13 +56,8 @@
  
  ## Stats.
  
- <div align="center">
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giddyware&layout=compact&theme=tokyonight&hide_border=false" /></p>
  
-<p>
-<img align="" width=300 height='200' src='https://github-readme-stats.vercel.app/api/wakatime?username=giddyware&layout=compact&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true'/>
-</p>
- </div>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giddyware&layout=compact&theme=tokyonight&hide_border=false" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Giddyware&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight&hide_border=false&border_radius=2&hide=contribs" alt="Idowu Iyanuoluwa's github stats" /></p>
 
