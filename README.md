@@ -43,6 +43,8 @@
 
 ✅ Good communication skills.
 
+✅ Excellent leadership skill.
+
 <hr>
 
 ## ❤ Views and Followers.
