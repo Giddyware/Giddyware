@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Giddyware&label=Profile%20views&color=0e75b6&style=flat" alt="Giddyware" /> </p>
 
-- 🔭 I’m currently working on **Next.js and React Native projects**
+- 🔭 I’m currently working on **React.js and React Native projects**
 - 💬 Ask me about **Web and Cross-platform Mobile App Development**
 - 📫 How to reach me **idowugidiyanuoluwa@gmail.com**
 - 🌱 I’m currently learning **Rust & Blockchain**
